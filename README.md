@@ -4,6 +4,7 @@ This is a discussion of DevOps theory.
 **What is DevOps**
 - DevOps is a role created as part of a culture shift in a company
 - It is a culture created and used to increase the speed of software delivery
+- Software development and operations working together throughout project life-cycle
 
 **Why should you use DevOps**
 - Speeds up software delivery

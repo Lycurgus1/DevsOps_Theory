@@ -1,5 +1,8 @@
 # What is this?
-This is a discussion of DevOps theory. 
+
+**This is a discussion of DevOps theory.** 
+
+## Summary
 
 **What is DevOps**
 - DevOps is a role created as part of a culture shift in a company
@@ -20,3 +23,17 @@ This is a discussion of DevOps theory.
 - Reduce IT costs and staff
 - All the benefits of DevOps translate into reduced general costs and requirements of IT staff. 
 - DevOps development teams require IT staff to be 35 percent less and IT costs 30 percent lower.
+
+**DevOps skills and needs**
+
+- Should be able to find out what went wrong before the client does
+
+*Skills*
+- Sysadmin skills
+- Deploy visualisation
+- Experience in network and storage
+- Good coding knowledge
+- Soft skills
+- Understand automation
+- Testing knowledge
+- Security aspects

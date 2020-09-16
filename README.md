@@ -1,6 +1,6 @@
 # What is this?
 
-**This is a discussion of DevOps theory.** 
+**This is a discussion of DevOps theory, done as part of DevOps training at Sparta Global.** 
 
 ## Summary
 
